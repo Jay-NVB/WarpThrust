@@ -2,6 +2,8 @@
 
 Better PersistentThrust plugin, now with built-in configs for Far Future Technologies and Near Future Propulsion!
 
+REQUIRES: ModuleManager, Persistent Rotation
+
 Instructions:
 - Power your craft with a plugin-compatible engine (it will have a WarpThrust box in the right-click window if it is).
 - When in flight, select the desired SAS orientation. DO NOT USE MECHJEB, the plugin will fail to activate.
