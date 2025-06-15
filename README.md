@@ -1,5 +1,10 @@
 # WarpThrust
 
+TODO: 
+- make them not apply in Realism Overhaul
+- add Raiz's RO configs for both to the mod
+- put the links in the README to the standalone configs
+
 Better PersistentThrust plugin, now with built-in configs for Far Future Technologies and Near Future Propulsion!
 
 REQUIRES: ModuleManager, Persistent Rotation
