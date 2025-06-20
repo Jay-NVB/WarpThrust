@@ -1,7 +1,5 @@
 # WarpThrust
 
-TODO: 
-
 Better PersistentThrust plugin, now with built-in configs for Far Future Technologies and Near Future Propulsion!
 
 REQUIRES: ModuleManager, Persistent Rotation
