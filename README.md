@@ -1,6 +1,7 @@
 # WarpThrust
 
-Better PersistentThrust plugin, now with built-in configs for Far Future Technologies and Near Future Propulsion!
+Better PersistentThrust plugin, now with built-in configs for Far Future Technologies and Near Future Propulsion! <br>
+RO compatible, RO configs for Near Future and Far Future engines are also included courtesy of Tyler Raiz.
 
 REQUIRES: ModuleManager, Persistent Rotation
 
