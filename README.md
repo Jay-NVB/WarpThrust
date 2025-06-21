@@ -16,3 +16,12 @@ Standalone Realism Overhaul configurations for Far Future and Near Future engine
 - [NFP](https://www.youtube.com/watch?v=9CWHvZVvwSk)
 
 ![image](https://github.com/user-attachments/assets/9d11ae6a-9de9-4cc0-9f5b-2d285807ceb1)
+
+# How to configure engines yourself
+- Create a .cfg file in GameData, and name it "<engine>WarpThrustPatch"
+- In that .cfg file, create a ModuleManager patch that adds the following module to the engine you want to configure:
+  
+	MODULE<br>
+	{<br>
+		name = WarpThrust<br>
+	}
