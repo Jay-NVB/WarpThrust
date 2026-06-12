@@ -6,7 +6,7 @@ Also includes configs for the stock NERV and Dawn engines.
 
 REQUIRES: ModuleManager, Persistent Rotation
 
-INCOMPATIBLE: PersistentThrust, Background Thrust
+INCOMPATIBLE: PersistentThrust, Background Thrust (just pick whichever one sounds like it'll work best for you)
 
 Instructions:
 - Power your craft with a plugin-compatible engine (it will have a WarpThrust box in the right-click window if it is).
